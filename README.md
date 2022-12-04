@@ -3,7 +3,7 @@
 ### Backend Setup
 
 This repository has all the starter code needed to get a Sinatra backend up and
-running. [**Fork and clone**](git@github.com:jewelmoe97/backend-todo.git) this repository to get started. Then, run
+running. [**Fork and clone**][git@github.com:jewelmoe97/backend-todo.git] this repository to get started. Then, run
 `bundle install` to install the gems.
 
 In this backend contains 3 models; my_shopping,mycategory and mylist.
